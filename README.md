@@ -32,5 +32,5 @@ This toolbox is a translation of Matlab code to Python.
 - Prior to using this toolbox please install numpy, scipy, pandas and matplotlib packages. 
 
 ## Who should I contact for questions?
-* Alexei Goumilevski agoumilevski@imf.org
-* Sebastian Weber SWeber@imf.org
+* Alexei Goumilevski agoumilevski@hotmail.com
+
