@@ -2,12 +2,12 @@
 Interacted Panel VAR Toolbox
 
 ## What is this?
-	Toolbox that estimates a panel VAR allowing coefficients to vary 
-	determinstically with individual characteristics as employed 
-	in Towbin and Weber (2011) Limits of Floating Exchange Rates: 
-	the Role of Foreign Currency Debt and Import Structure.
+Toolbox that estimates a panel VAR allowing coefficients to vary 
+determinstically with individual characteristics as employed 
+in Towbin and Weber (2011) "Limits of Floating Exchange Rates: 
+the Role of Foreign Currency Debt and Import Structure".
 	
-	This toolbox is a translation of Matlab code to Python.
+This toolbox is a translation of Matlab code to Python.
 
 ## This toolbox includes:
 - An equation-by-equation OLS VAR estimator for (unbalanced) panels with deterministically varying coefficients. 
@@ -29,7 +29,7 @@ Interacted Panel VAR Toolbox
 - The produced graphs will be placed in a graphs folder.
 
 ## Prerequisites:
-- Prior to using this toolbox please install numpy, scipy, pandas and matplotlib packages. 
+- Prior to using this toolbox please install numpy, scipy, pandas and matplotlib packages. 
 
 ## Who should I contact for questions?
 * Alexei Goumilevski agoumilevski@imf.org
